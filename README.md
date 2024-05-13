@@ -7,26 +7,22 @@ Welcome to the Mario Game project, a classic platformer game built with vanilla 
 **Technologies Used**
 
 **Frontend:**
-
-Vanilla JavaScript: A programming language used for building interactive web applications.
-Kaboom.js: A JavaScript library for fast prototyping 2D games in the browser.
+- Vanilla JavaScript: A programming language used for building interactive web applications.
+- Kaboom.js: A JavaScript library for fast prototyping 2D games in the browser.
 
 **Styling:**
-
-Vanilla CSS: Cascading Style Sheets used for styling the game interface.
+- Vanilla CSS: Cascading Style Sheets used for styling the game interface.
 
 **Features**
-
-**Classic Platformer Gameplay:** Experience classic platformer gameplay reminiscent of the iconic Super Mario series.
-**Interactive Levels**: Navigate through multiple levels filled with obstacles, platforms, and enemies.
-**Collectibles:** Collect coins and power-ups scattered throughout the levels to enhance Mario's abilities and score points.
-**Enemy AI:** Encounter various enemy types with different behaviors and defeat them to progress.
-**Scoring System:** Keep track of your score as you collect coins and complete levels.
+- **Classic Platformer Gameplay:** Experience classic platformer gameplay reminiscent of the iconic Super Mario series.
+- **Interactive Levels**: Navigate through multiple levels filled with obstacles, platforms, and enemies.
+- **Collectibles:** Collect coins and power-ups scattered throughout the levels to enhance Mario's abilities and score points.
+- **Enemy AI:** Encounter various enemy types with different behaviors and defeat them to progress.
+- **Scoring System:** Keep track of your score as you collect coins and complete levels.
 
 **Controls**
-
-Use the arrow keys (←, →, ↑) to move Mario left, right, and jump, respectively.
-Press the spacebar to perform actions such as shooting fireballs or activating power-ups.
+- Use the arrow keys (←, →, ↑) to move Mario left, right, and jump, respectively.
+- Press the spacebar to perform actions such as shooting fireballs or activating power-ups.
 
 **Installation**
 
@@ -49,4 +45,4 @@ This project is licensed under the MIT License.
 
 **Contact**
 
-For any inquiries or feedback regarding the Mario Game project, please contact Your Name.
+For any inquiries or feedback regarding the Mario Game project, please contact Tariq Kichawele.
